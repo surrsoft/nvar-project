@@ -19,5 +19,6 @@
     "@types/react": "^17.0.3",
     "typescript": "^4.2.4"
   },
-  "description": "Next.js + Material UI + TypeScript + SASS boilerplate starter"
+  "description": "Next.js + Material UI + TypeScript + SASS boilerplate starter",
+  "keywords": ["Next.js", "Material UI", "TypeScript", "SASS", "boilerplate", "starter kit", "template"]
 }
